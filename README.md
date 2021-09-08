@@ -9,6 +9,8 @@ I enjoy playing with computers and I aspire to be Tony Stark when I grow up. I k
 
 I like reading books, listening to music, playing football or any informative things in my freetime (yes I don't play video games but I want to 😂)
 
+Wanna chat? Discord: Risen#2030
+
 <div align="center">
   <img vertical-align="middle" src="https://github-readme-stats.vercel.app/api?username=Risen54&count_private=true&show_icon=true&theme=radical">
   <img vertical-align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Risen54&theme=radical&hide=C++&layout=compact">
