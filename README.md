@@ -12,6 +12,6 @@ I like reading books, listening to music, playing football or any informative th
 Wanna chat? Discord: Risen#2030
 
 <div align="center">
-  <img vertical-align="middle" src="https://github-readme-stats.vercel.app/api?username=Risen54&count_private=true&show_icon=true&theme=onedark">
-  <img vertical-align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Risen54&theme=onedark&hide=C++&layout=compact">
+  <img vertical-align="middle" src="https://github-readme-stats.vercel.app/api?username=Risen54&count_private=true&show_icon=true&theme=dracula">
+  <img vertical-align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Risen54&theme=dracula&hide=C++&layout=compact">
 </div>
