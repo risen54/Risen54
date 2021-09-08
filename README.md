@@ -13,5 +13,5 @@ Wanna chat? Discord: Risen#2030
 
 <div align="center">
   <img vertical-align="middle" src="https://github-readme-stats.vercel.app/api?username=Risen54&count_private=true&show_icon=true&theme=radical">
-  <img vertical-align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Risen54&theme=radical&hide=C++&layout=compact">
+  <img vertical-align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Risen54&theme=radical&hide=C++&layout=gradient">
 </div>
