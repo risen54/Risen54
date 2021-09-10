@@ -3,10 +3,11 @@
 ## Hey There👋!
 ### I am Satvik
 
+I am a 13 yrs old guy who loves to code!
+
 <div align="right">
 <img vertical-align="rigt" src="https://github.com/Risen54/Risen54/blob/main/ssbro.jpg">
-
-I am a 13 yrs old guy who loves to code!
+</div>
 
 I enjoy playing with computers and I aspire to be Tony Stark when I grow up. I know it's funny but a wise man once said **"If people aren't laughing at your dreams, your dreams aren't big enough"**. I am a beginner for now but I hope I'll be mentoring others when I master python.
 
