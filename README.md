@@ -1,7 +1,5 @@
 
-
-## Hey There👋!
-### I am Satvik
+### Hey there! I am Satvik
 
 ![](https://komarev.com/ghpvc/?username=Risen54&label=PROFILE+VIEWS)
 
