@@ -1,8 +1,6 @@
 
 ### Hey there!
 
-![](https://komarev.com/ghpvc/?username=Risen54&label=PROFILE+VIEWS)
-
 - :snake: Python Programmer as an hobby (Intermediate)
 - :microscope: Learning python
 - :computer: OS: Fedrora Linux (and Windows 10)
