@@ -1,7 +1,7 @@
 
 ### Hey there!
 
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)(mailto:satvik90four@gmail.com)]
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:iamsatvik2@gmail.com.com)
 
 - :snake: Python Programmer as an hobby (Intermediate)
 - :microscope: Learning python
