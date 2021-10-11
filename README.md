@@ -5,7 +5,7 @@
 
 - :snake: Python Programmer as an hobby (Intermediate)
 - :microscope: Learning python
-- :computer: OS: Windows 10
+- :computer: OS: Ubuntu + Windows 10 (Dual boot)
 - :robot: Next goal: Machine Learning
 - :apple: Also likes physics, maths and chemistry
 - :sunglasses: Freetime: Anime, coding and... studying (coz' I like studying)
