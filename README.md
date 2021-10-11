@@ -15,3 +15,5 @@
  - Join IIT (or any other great engineering college)
  - Work in DRDO (India's defence research organisatoin) :) {This is my favourite goal}
  - Lead a happy and peaceful life :innocent:
+ 
+<img vertical-align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Risen54&theme=radical&hide=C++&layout=compact">
