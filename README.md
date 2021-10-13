@@ -1,17 +1,18 @@
 
-### Hey there!
+# Hey there! <img src="https://tenor.com/view/hello-wave-cute-anime-cartoon-gif-7537923" width="50">
 
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:iamsatvik2@gmail.com.com)
+![](https://komarev.com/ghpvc/?username=Risen54&label=PROFILE+VIEWS)
 
-- :snake: Python Programmer as an hobby (Intermediate)
-- :microscope: Learning python
-- :computer: OS: Ubuntu + Windows 10 (Dual boot)
-- :robot: Next goal: Machine Learning
-- :apple: Also likes physics, maths and chemistry
-- :sunglasses: Freetime: Anime, coding and... studying (coz' I like studying)
+I'm Satvik aka Risen. A self-taught programmer from India. Currently, I am trying to learn AI and sockets stuff. I like programming, watching anime and viewing others' code to have a better understanding and also solving math and studying science (Physics, Chemistry and Cytology specifically).
 
- ### My goals:
- 
- - Join IIT (or any other great engineering college)
- - Work in DRDO (India's defence research organisatoin) :) {This is my favourite goal}
- - Lead a happy and peaceful life :innocent:
+### Wanna know more?
+
+```python
+RISEN = {
+         OS: [Ubuntu, Windows],
+         Languages: Python,
+         Tools: [Vim, Github, Terminal],
+         Interest: [Machine Learning, AI, Electrics],
+         Challenge: "Make something for the betterment of the world!"
+}
+```
