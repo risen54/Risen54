@@ -1,5 +1,5 @@
 
-# Hey there! <img src="https://tenor.com/view/hello-wave-cute-anime-cartoon-gif-7537923" width="50">
+# Hey there!
 
 ![](https://komarev.com/ghpvc/?username=Risen54&label=PROFILE+VIEWS)
 
