@@ -17,5 +17,5 @@
 <img align="left" src="https://github.com/Risen54/Risen54/blob/main/pngegg.png" width="40" alt="Terminal" />
 <img align="left" src="https://github.com/Risen54/Risen54/blob/main/github_PNG58.png" width="40" alt="Github" />
 
-###
+### |
 <img vertical-align="middle" src="https://github-readme-stats.vercel.app/api?username=Risen54&count_private=true&show_icon=true&theme=dracula">
