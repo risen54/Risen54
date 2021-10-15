@@ -16,3 +16,7 @@
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/544px-Vimlogo.svg.png" width="40" alt="Vim" />
 <img align="left" src="https://github.com/Risen54/Risen54/blob/main/pngegg.png" width="40" alt="Terminal" />
 <img align="left" src="https://github.com/Risen54/Risen54/blob/main/github_PNG58.png" width="40" alt="Github" />
+
+### Stats:
+
+<img vertical-align="middle" src="https://github-readme-stats.vercel.app/api?username=Risen54&count_private=true&show_icon=true&theme=radical">
