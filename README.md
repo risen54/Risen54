@@ -4,7 +4,7 @@
 
 
 
-About me 🙋‍♂️
+About me 👋
 - I am currently learning [sturct](https://docs.python.org/3/library/struct.html)
 - My end goal of programming: Learn ML and be the best ever progrmmer.
 - My python level: `Intermediate`
@@ -21,7 +21,7 @@ About me 🙋‍♂️
 <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Risen54's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Risen54&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
 
  
-## 📊 My Github Stats
+## My Github Stats
 
   <br/>
     <a href="https://github.com/Risen54/github-readme-stats"><img alt="Risen54's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Risen54&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
