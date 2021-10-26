@@ -5,7 +5,7 @@
 
 
 About me 🙋‍♂️
-- I am currently learning ![sturct](https://docs.python.org/3/library/struct.html)
+- I am currently learning sturct(https://docs.python.org/3/library/struct.html)
 - My end goal of programming: Learn ML and be the best ever progrmmer.
 - My python level: Intermediate
 - My other likes: Maths, Physics, Chemistry, reading books and listening to songs.
