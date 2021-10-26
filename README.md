@@ -5,24 +5,10 @@
 
 
 About me 🙋‍♂️
-- I am currently learning python and look forward to learn C#!
-- I love ducks!
-- I have lots of projects planned in the future, like making a discord moderation bot,publishing 2.5  D games using Unity, finish my personal website and make a roblox game!
-
-## languages and tools
-
-
-<p align="left"> 
-    <a href="https://youtu.be/dQw4w9WgXcQ" target="_blank"> <img src="https://img.icons8.com/color/48/000000/roblox-studio.png"/> </a>
-    <a href="https://youtu.be/dQw4w9WgXcQ" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/unity.png"/> </a> 
-    <a href="https://youtu.be/dQw4w9WgXcQ" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://youtu.be/dQw4w9WgXcQ" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://youtu.be/dQw4w9WgXcQ" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-   <a href="https://youtu.be/dQw4w9WgXcQ" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
-</p>
-
-
-<br/>
+- I am currently learning ![sturct](https://docs.python.org/3/library/struct.html)
+- My end goal of programming: Learn ML and be the best ever progrmmer.
+- My python level: Intermediate
+- My other likes: Maths, Physics, Chemistry, reading books and listening to songs.
 
 
 ## Streak 🚀
