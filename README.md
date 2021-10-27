@@ -1,4 +1,5 @@
 #### Thanks to [CaptainDuckyDev](https://github.com/CaptainDuckyDev) for this great readme
+#### Special thanks to my python coach [Amethyst](https://github.com/Amethyst69)
 
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
