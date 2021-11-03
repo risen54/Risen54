@@ -9,12 +9,13 @@
 - inspiration -> `Elon Musk`
 
 ```py
-class Risen54(self):
-  self.name = Risen
-  self.lang = Python
-  slef.interest = "coding, Maths, Chemistry, computers, music, electric stuff and Mr. Bean :D"
-  self.tools = [Vim, VSC, wsl, brain]
-  self.challenge = "Focus!!"
+class Risen54:
+  def __init__(self):
+    self.name = Risen
+    self.lang = Python
+    slef.interest = "coding, Maths, Chemistry, computers, music, electric stuff and Mr. Bean :D"
+    self.tools = [Vim, VSC, wsl, brain]
+    self.challenge = "Focus!!"
 ```
 
 #### You know me!
