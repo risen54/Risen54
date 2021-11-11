@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=Risen54&label=PROFILE+VIEWS)
 
 ### About me
-- level -> `intermediate`
+- level -> `intermediate` for Python and `beginner` for Rust
 - currently working on -> `Voice assistant`
 - likes -> `coding, Maths, Chemistry, computers, electric stuff and Mr. Bean :D`
 - inspiration -> `Elon Musk`
@@ -12,7 +12,7 @@
 class Risen54:
   def __init__(self):
     self.name = Risen
-    self.lang = Python
+    self.lang = Python, Rust
     slef.interest = "coding, Maths, Chemistry, computers, music, electric stuff and Mr. Bean :D"
     self.tools = [Vim, VSC, wsl, brain]
     self.challenge = "Focus!!"
