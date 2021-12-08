@@ -4,7 +4,8 @@
 
 ### About me
 - level -> `intermediate` for Python and `beginner` for C++
-- currently working on -> `Voice assistant`
+- aspiration -> `Indian Navy`
+- currently working on -> `Improving my skills`
 - likes -> `coding, Maths, Chemistry, computers, electric stuff and Mr. Bean :D`
 - inspiration -> `My future self`
 
