@@ -13,7 +13,7 @@ class Risen54:
   def __init__(self):
     self.name = Risen
     self.lang = Python, C++
-    slef.interest = "coding, Maths, Chemistry, computers, music, electric stuff and Mr. Bean :D"
+    slef.interest = "Navy, coding, Maths, Chemistry, computers, music, electric stuff and Mr. Bean :D"
     self.tools = [Vim, VSC, wsl, brain]
     self.challenge = "Focus!!"
 ```
