@@ -6,7 +6,7 @@
 - level -> `intermediate` for Python and `beginner` for C++
 - currently working on -> `Voice assistant`
 - likes -> `coding, Maths, Chemistry, computers, electric stuff and Mr. Bean :D`
-- inspiration -> `Elon Musk`
+- inspiration -> `My future self`
 
 ```py
 class Risen54:
