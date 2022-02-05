@@ -4,17 +4,17 @@
 
 ### About me
 - level -> `intermediate` for Python and `beginner` for C++
-- aspiration -> `Indian Navy`
+- aspiration -> `Indian Army`
 - currently working on -> `Improving my skills`
-- likes -> `coding, Maths, Chemistry, computers, electric stuff and Mr. Bean :D`
+- likes -> `coding, Maths, Chemistry, Physics, computers, electric stuff and Mr. Bean :D`
 - inspiration -> `My future self`
 
 ```py
 class Risen54:
   def __init__(self):
     self.name = Risen
-    self.lang = Python, C++
-    slef.interest = "Navy, coding, Maths, Chemistry, computers, music, electric stuff and Mr. Bean :D"
+    self.lang = Python, JS
+    slef.interest = "Army, coding, Maths, Chemistry, Phtsics, computers, music, electric stuff and Mr. Bean :D"
     self.tools = [Vim, VSC, wsl, brain]
     self.challenge = "Focus!!"
 ```
